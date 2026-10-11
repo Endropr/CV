@@ -1,1 +1,1 @@
-📄 **[Download my CV (PDF)](Aleksandr_Busygin_CV.pdf)**
+📄 **[Download my CV (PDF)](Aleksandr_Busygin_CV.docx)**
