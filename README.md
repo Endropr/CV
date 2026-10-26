@@ -1,4 +1,4 @@
-# Alexander Busygin — CV
+# Alexander Busygin - CV
 
 Fullstack Developer (Go / React / PHP)  
 3+ years of commercial experience
