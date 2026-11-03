@@ -14,3 +14,5 @@ Go · PHP · React · TypeScript · PostgreSQL · Docker · Nginx · Cloudflare
 — Telegram: https://t.me/EndroPresents
 
 — Email: endropresents5@gmail.com
+
+— LinkedIn: https://www.linkedin.com/in/endropresents
