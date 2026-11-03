@@ -5,7 +5,7 @@ Fullstack Developer (Go / React / PHP)
 
 ### Download
 - [CV in English (PDF)](./Aleksandr_Busygin_CV_EN.pdf) 
-- [CV in Russian (PDF)](./Aleksandr_Busygin_CV.pdf)
+- [CV in Russian (PDF)](./Aleksandr_Busygin_CV_RU.pdf)
 
 ### Stack
 Go · PHP · React · TypeScript · PostgreSQL · Docker · Nginx · Cloudflare
